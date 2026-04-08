@@ -151,15 +151,6 @@ GPS deceleration (≥ 1.5 m/s drop in 3 seconds) triggers scatter independently 
 
 ---
 
-## Team
-
-| Name | Role |
-|---|---|
-| **Fabio** | Project lead, architecture, audio engine, motion detection |
-| **Ciro** | — |
-| **Jacopo** | — |
-| **Souha** | — |
-| **Sara** | — |
 
 ---
 
